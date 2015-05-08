@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/pre-dexed/debug/classes-a6aacd3012653bae6094a037767736e35561e76b.jar" />
+    </item>
+    <item
+        jar="/Users/JaeCheol/Desktop/UserApp/app/libs/zxing-2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/pre-dexed/debug/zxing-2.1-3879b9112ea7b5638e0054e085405a6e75c4d126.jar" />
+    </item>
+    <item
+        jar="/Users/JaeCheol/Desktop/UserApp/app/libs/OnBarcode.AndroidBarcode.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59dd13e54178477c62a29f94057e09f6d536c109">
+        <dex dex="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/pre-dexed/debug/OnBarcode.AndroidBarcode-6e1a292246a8c42f391d7fa8ef93fb257ce76286.jar" />
+    </item>
+    <item
+        jar="/Users/JaeCheol/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-2ddadbae0f293637f84a68687e54f6b69d065aa6.jar" />
+    </item>
+    <item
+        jar="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/pre-dexed/debug/classes-60072702355654445c6f4b1189428d8e0a7d84c7.jar" />
+    </item>
+    <item
+        jar="/Users/JaeCheol/Desktop/UserApp/app/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cebe8e4a3a469c4623addcca1dc571407ff3a08e">
+        <dex dex="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/pre-dexed/debug/google-play-services-6453b3fd27fea4855c03ee9f470fcd85a6a12792.jar" />
+    </item>
+    <item
+        jar="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-8b255b450d35bf143dd563faac5f8274bf3c48bf.jar" />
+    </item>
+    <item
+        jar="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/pre-dexed/debug/classes-917f7e83a2b0d32ee6e9a74ea172645e51bf1727.jar" />
+    </item>
+    <item
+        jar="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/JaeCheol/Desktop/UserApp/app/build/intermediates/pre-dexed/debug/classes-6df64defe723f5b5e074b8532e5979862a7602b4.jar" />
+    </item>
+
+</items>
